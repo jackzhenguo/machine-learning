@@ -1,2 +1,3 @@
-# machine-learning
-machine learning things
+# machine-learning current directory
+
+	
