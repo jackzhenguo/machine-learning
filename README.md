@@ -1,10 +1,10 @@
 # machine-learning directory notes
-dl: deep learning 
-kaggle: exmples
-math: math 
-ml :machine-learning
-pca :principle component analysis
-tensorflow: tensorflow coding
+dl: deep learning <br />
+kaggle: exmples  <br />
+math: math <br />
+ml :machine-learning  <br />
+pca :principle component analysis  <br />
+tensorflow: tensorflow coding  <br />
 
 
 	
