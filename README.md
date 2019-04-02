@@ -5,6 +5,6 @@ math: math <br />
 ml :machine-learning  <br />
 pca :principle component analysis  <br />
 tensorflow: tensorflow coding  <br />
-
+pandas: pandas in work summary
 
 	
