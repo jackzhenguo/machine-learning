@@ -34,6 +34,8 @@ for I in {1..5};do docker start sp$i;done;
 docker  ps 
 ```
 
+![image1](./1.png)
+
 现在已经配置好所有spark相关环境，下面配置spark的standalone模式。
 配置spark
 拷贝spark脚本文件
