@@ -136,7 +136,7 @@ plt.plot(matrix[:,0],a*matrix[:,0]+b,color='red')
 
 ## 完整代码
 
-[spark-ml-linear-regression-demo.py]
+[spark-ml-linear-regression-demo 完整代码](./spark-ml-linear-regression-demo.py)
 
 ## 参考：
 
