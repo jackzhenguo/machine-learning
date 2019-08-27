@@ -42,11 +42,16 @@ docker  ps
 cp spark-env.sh.template spark-env.sh 
 
 配置standalone模型，指定master与slaves, 编辑spark-env.sh与slaves文件
- 
+![image2](./2.png)
+![image3](./3.png)
 
 启动spark集群
+
+![image1](./4.png)
  
 Jps查看发现sp1已经是master节点
+
+![image1](./5.png)
  
  ## spark体验ml神奇之旅
  
@@ -64,45 +69,53 @@ import pandas as pd
 ```
 
 ### 2、造数据，y=2x+biases
-
+```
 features=[i/100. for i in range(-100,100)]
 labels=[2*features[i]+np.random.normal() for i in range(len(features))]
 features=np.atleast_2d(np.array(features)).reshape([-1,1])
 labels=np.atleast_2d(np.array(labels)).reshape([-1,1])
+```
 
 ### 3、合并矩阵
+```
 matrix=np.hstack([features,labels])
 由于spark的dataframe格式与pandas可以直接转换，所以将numpy格式转为pandas
+```
 
 ### 4、数据格式
+```
 fes=pd.DataFrame(data=matrix,columns=["features","labels"])
+```
 
 ### 5、指定集群地址
+```
 sc= SparkContext( 'local', 'lineregression')
 sqlContext = SQLContext(sc)
+```
 
 ### 6、转换数据并查看数据
-
+```
 df = sqlContext.createDataFrame(fes)
 
 df.select(["features","labels"]).toPandas()
- 
+```
 
-
-
+![image1](./6.png)
 
 ### 7、将df转换为spark模型训练数据格式，实际上也就是将feature改为数组
  
-
+![image1](./7.png)
 
 ### 8、划分数据集0.9与0.1，并打印coefficients与intercept
+```
 lr = LinearRegression(featuresCol = 'feature', labelCol='labels', maxIter=10, regParam=0.3, elasticNetParam=0.8)
 lr_model = lr.fit(vhouse_df.randomSplit([0.9,0.1])[0])
 print("Coefficients: " + str(lr_model.coefficients))
 print("Intercept: " + str(lr_model.intercept))
-
+```
 
 ### 9、绘制图像，查看拟合效果
+```
 a=float(str(lr_model.coefficients[0]))
 b=float(str(lr_model.intercept))
 import matplotlib.pyplot as plt
@@ -110,18 +123,21 @@ import matplotlib.pyplot as plt
 plt.scatter(matrix[:,0], matrix[:,1])
 
 plt.plot(matrix[:,0],a*matrix[:,0]+b,color='red')
- 
+```
 
+![image1](./8.png)
 
+### 10、输入 http://localhost:4040查看job运行状况
 
-### 10、输入http://localhost:4040查看job运行状况
-
+![image1](./9.png)
  
 ## 总结
 总体来说体验还是蛮新鲜的
 
 ## 参考：
+
 1、https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a
+
 2、https://spark.apache.org/docs/2.2.0/ml-classification-regression.html#linear-regression
 
 
