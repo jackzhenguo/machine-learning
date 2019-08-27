@@ -134,6 +134,10 @@ plt.plot(matrix[:,0],a*matrix[:,0]+b,color='red')
 ## 总结
 总体来说体验还是蛮新鲜的
 
+## 完整代码
+
+完整可运行代码：[./spark-ml-linear-regression-demo.py]
+
 ## 参考：
 
 1、https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a
