@@ -7,7 +7,11 @@ It is all about practical experience and best study materials for AI
 linear algebra, probabilty theory.
 ## python
 [Python model](https://github.com/jackzhenguo/machine-learning/tree/master/python) is mainly for machine learning and deep learning ,such as decorator, generator, highOrder function, etc and that is 
-to say, doesn't include everything knowledge about Python.
+to say, doesn't include everything knowledge about Python, currently including:
+- [装饰器极简入门](https://github.com/jackzhenguo/machine-learning/blob/master/python/decorator.py)
+- [生成器极简入门](https://github.com/jackzhenguo/machine-learning/blob/master/python/generatorFun.py)
+- [高阶函数极简入门](https://github.com/jackzhenguo/machine-learning/blob/master/python/highOrderFun.py)
+- [itertools之groupby](https://github.com/jackzhenguo/machine-learning/blob/master/python/itertools-groupby-example.py)
 
 ## numpy
 [Numpy model](https://github.com/jackzhenguo/machine-learning/tree/master/numpy) is about numpy summaries in practice, currently including: 
@@ -24,13 +28,13 @@ of machine learning is provided the reference materials which are picked up elab
 
 - [决策树做回归和分类及可视化](https://github.com/jackzhenguo/machine-learning/tree/master/ml/decision-tree)
 
-- [PCA, SVD](https://github.com/jackzhenguo/machine-learning/tree/master/ml/pca)
+- [主成分分析之 PCA, SVD](https://github.com/jackzhenguo/machine-learning/tree/master/ml/pca)
 
 - [手写 高斯混合GMM算法](https://github.com/jackzhenguo/machine-learning/blob/master/ml/GMM.ipynb)
 
-- [线性回归](https://github.com/jackzhenguo/machine-learning/blob/master/ml/linear-regression.ipynb)
+- [手写 线性回归实战](https://github.com/jackzhenguo/machine-learning/blob/master/ml/linear-regression.ipynb)
 
-- [逻辑回归](https://github.com/jackzhenguo/machine-learning/blob/master/ml/logistic-regression.ipynb)
+- [手写 逻辑回归实战](https://github.com/jackzhenguo/machine-learning/blob/master/ml/logistic-regression.ipynb)
 
 - [xgboost基础入门](https://github.com/jackzhenguo/machine-learning/blob/master/ml/xgboost-basics.ipynb)
 
