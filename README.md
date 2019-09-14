@@ -1,6 +1,6 @@
 # Road to ml
 ## basics
-(Basics model)[https://github.com/jackzhenguo/machine-learning/tree/master/basics] includes some essentially fundamental algorithms,such as bisection, Dijstra, common sort algorithms and so on.
+[basics](https://github.com/jackzhenguo/machine-learning/tree/master/basics) includes some essentially fundamental algorithms,such as bisection, Dijstra, common sort algorithms and so on.
 ## math
 Math model is exactly its seeming name, about math theories, especially about optimization,
 linear algebra, probabilty theory.
