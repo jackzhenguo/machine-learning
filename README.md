@@ -10,7 +10,7 @@ to say, doesn't include everything knowledge about Python.
 
 ## numpy
 [Numpy model](https://github.com/jackzhenguo/machine-learning/tree/master/numpy) is about numpy summaries in practice. Currently including: 
--- [Numpy常见的4个应用场景](https://github.com/jackzhenguo/machine-learning/blob/master/numpy/matric%20searching%20methods.md)
+- [Numpy特征工程常见的4个场景](https://github.com/jackzhenguo/machine-learning/blob/master/numpy/matric%20searching%20methods.md)
 
 ## pandas
 [Numpy model](https://github.com/jackzhenguo/machine-learning/tree/master/pandas) is about pandas summaries in practice.
