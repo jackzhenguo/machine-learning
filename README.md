@@ -1,27 +1,9 @@
-# machine-learning dir
+# Road to ml
 ## basics
-  my-python-api-example
-	| | 
-	  - decorator.py
-	  |
-	  - generatorFun.py
-	  |
-	  - highOrderFun.py
-	  |
-	  - itertools-groupby-exmple.py
-    |
-  BiSection.py
-    |
-  closure.py
-    |
-  Dijstra.py
+Basics model is about fundamental knowledge for machine learning and deep learning, such as decorator, generator, highOrder function of `Python`. It also includes some essentially fundamental algorithms,
+such as bisection, Dijstra, common sort algorithms and so on.
 
 
-
-
-
-  
-  
 ## dl: deep learning <br />
 ## kaggle: exmples  <br />
 ## math: math <br />
