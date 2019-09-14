@@ -1,6 +1,6 @@
 # Road to ml
 ## basics
-Basics model includes some essentially fundamental algorithms,such as bisection, Dijstra, common sort algorithms and so on.
+(Basics model)[https://github.com/jackzhenguo/machine-learning/tree/master/basics] includes some essentially fundamental algorithms,such as bisection, Dijstra, common sort algorithms and so on.
 ## math
 Math model is exactly its seeming name, about math theories, especially about optimization,
 linear algebra, probabilty theory.
@@ -16,15 +16,15 @@ It is about numpy summaries in practice.
 It is about pandas summaries in practice.
 
 
-## ml :machine-learning  
+## ml
 This model is mainly about ml skill stack, including feature engineering, pca, common ml algorithms, etc. Importantly, each step
 of machine learning is provided the reference materials which are picked up elaborately and have a rank.
 
 
-## dl: deep learning 
+## dl
 Deep learning part contains theory about cv and nlp. 
 
-## kaggle: exmples
+## kaggle
 This is part in pracitce and contains sorts of practical experience.
 
 
