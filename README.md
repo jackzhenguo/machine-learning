@@ -40,6 +40,10 @@ of machine learning is provided the reference materials which are picked up elab
 
 ## dl
 [DL model](https://github.com/jackzhenguo/machine-learning/tree/master/dl),deep learning part contains theory about cv and nlp. 
+- [lstm 网络模型原理剖析](https://blog.csdn.net/gzj_1101/article/details/79376798)
+- [前馈神经网络底层原理剖析](https://github.com/jackzhenguo/machine-learning/blob/master/dl/FeedForwardNN.py)
+- [深度学习线性回归](https://github.com/jackzhenguo/machine-learning/blob/master/dl/linear-regression-tensorflow.ipynb)
+- [手写字识别](https://github.com/jackzhenguo/machine-learning/blob/master/dl/mnistSolver.ipynb)
 
 ## kaggle
 [Kaggle model](https://github.com/jackzhenguo/machine-learning/tree/master/kaggle/titanic) is about in pracitce and contains sorts of practical experience.
