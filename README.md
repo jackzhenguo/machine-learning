@@ -45,6 +45,9 @@ of machine learning is provided the reference materials which are picked up elab
 - [深度学习线性回归](https://github.com/jackzhenguo/machine-learning/blob/master/dl/linear-regression-tensorflow.ipynb)
 - [手写字识别](https://github.com/jackzhenguo/machine-learning/blob/master/dl/mnistSolver.ipynb)
 
+Best study materials for deep learning:
+- [深度学习极简入门笔记](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
+
 ## kaggle
 [Kaggle model](https://github.com/jackzhenguo/machine-learning/tree/master/kaggle/titanic) is about in pracitce and contains sorts of practical experience.
 
