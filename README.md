@@ -1,5 +1,5 @@
 # Road to AI
-It is all about practical experience and best study materials for AI
+It is all about practical experience and best study materials for AI \b
 **this repository is updating now and future, please star**
 ## basics
 [Basics model](https://github.com/jackzhenguo/machine-learning/tree/master/basics) includes some essentially fundamental algorithms,such as bisection, Dijstra, common sort algorithms and so on.
