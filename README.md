@@ -2,9 +2,18 @@
 It is all about practical experience and best study materials for AI
 ## basics
 [Basics model](https://github.com/jackzhenguo/machine-learning/tree/master/basics) includes some essentially fundamental algorithms,such as bisection, Dijstra, common sort algorithms and so on.
+- [二分法例子](https://github.com/jackzhenguo/machine-learning/tree/master/basics)
+- [迪杰斯特拉算法应用举例](https://github.com/jackzhenguo/machine-learning/blob/master/basics/Dijkstra.py)
+- [牛顿法求f(x)解应用举例](https://github.com/jackzhenguo/machine-learning/blob/master/basics/NewtonMethod.py)
+- [闭包使用举例](https://github.com/jackzhenguo/machine-learning/blob/master/basics/closure.py)
+- [普利姆算法求得最小生成树](https://github.com/jackzhenguo/machine-learning/blob/master/basics/primToMiniTree.py)
+- [堆排序求得TopK](https://github.com/jackzhenguo/machine-learning/blob/master/basics/topKByHeap.py)
+- [快速排序求得TopK](https://github.com/jackzhenguo/machine-learning/blob/master/basics/topKByQuickSort.py)
 ## math
 [Math model](https://github.com/jackzhenguo/machine-learning/tree/master/math) is exactly its seeming name, about math theories, especially about optimization,
 linear algebra, probabilty theory.
+- [KKT条件讲的最好的PPT](https://github.com/jackzhenguo/machine-learning/blob/master/math/KKT.pdf)
+- [机器学习中的条件数怎么理解？](https://github.com/jackzhenguo/machine-learning/blob/master/math/condition-number.ipynb)
 ## python
 [Python model](https://github.com/jackzhenguo/machine-learning/tree/master/python) is mainly for machine learning and deep learning ,such as decorator, generator, highOrder function, etc and that is 
 to say, doesn't include everything knowledge about Python, currently including:
@@ -23,6 +32,7 @@ to say, doesn't include everything knowledge about Python, currently including:
 
 ## pandas
 [Pandas model](https://github.com/jackzhenguo/machine-learning/tree/master/pandas) is about pandas summaries in practice.
+
 
 
 ## ml
