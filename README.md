@@ -2,9 +2,18 @@
 It is all about practical experience and best study materials for AI
 ## basics
 [Basics model](https://github.com/jackzhenguo/machine-learning/tree/master/basics) includes some essentially fundamental algorithms,such as bisection, Dijstra, common sort algorithms and so on.
+- [二分法例子](https://github.com/jackzhenguo/machine-learning/tree/master/basics)
+- [迪杰斯特拉算法应用举例](https://github.com/jackzhenguo/machine-learning/blob/master/basics/Dijkstra.py)
+- [牛顿法求f(x)解应用举例](https://github.com/jackzhenguo/machine-learning/blob/master/basics/NewtonMethod.py)
+- [闭包使用举例](https://github.com/jackzhenguo/machine-learning/blob/master/basics/closure.py)
+- [普利姆算法求得最小生成树](https://github.com/jackzhenguo/machine-learning/blob/master/basics/primToMiniTree.py)
+- [堆排序求得TopK](https://github.com/jackzhenguo/machine-learning/blob/master/basics/topKByHeap.py)
+- [快速排序求得TopK](https://github.com/jackzhenguo/machine-learning/blob/master/basics/topKByQuickSort.py)
 ## math
 [Math model](https://github.com/jackzhenguo/machine-learning/tree/master/math) is exactly its seeming name, about math theories, especially about optimization,
 linear algebra, probabilty theory.
+- [KKT条件讲的最好的PPT](https://github.com/jackzhenguo/machine-learning/blob/master/math/KKT.pdf)
+- [机器学习中的条件数怎么理解？](https://github.com/jackzhenguo/machine-learning/blob/master/math/condition-number.ipynb)
 ## python
 [Python model](https://github.com/jackzhenguo/machine-learning/tree/master/python) is mainly for machine learning and deep learning ,such as decorator, generator, highOrder function, etc and that is 
 to say, doesn't include everything knowledge about Python, currently including:
@@ -12,6 +21,10 @@ to say, doesn't include everything knowledge about Python, currently including:
 - [生成器极简入门](https://github.com/jackzhenguo/machine-learning/blob/master/python/generatorFun.py)
 - [高阶函数极简入门](https://github.com/jackzhenguo/machine-learning/blob/master/python/highOrderFun.py)
 - [itertools之groupby](https://github.com/jackzhenguo/machine-learning/blob/master/python/itertools-groupby-example.py)
+- [24式加速你的Python](https://github.com/jackzhenguo/machine-learning/blob/master/python/24%E5%BC%8F%E5%8A%A0%E9%80%9F%E4%BD%A0%E7%9A%84Python.ipynb)
+- [Python63个内置函数](https://github.com/jackzhenguo/machine-learning/blob/master/python/Python63%E4%B8%AA%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.md)
+- [Type Checking](https://github.com/jackzhenguo/machine-learning/blob/master/python/Type%20Checking.md)
+- [列表生成式](https://github.com/jackzhenguo/machine-learning/blob/master/python/%E5%88%97%E8%A1%A8%E7%94%9F%E6%88%90%E5%BC%8F.md)
 
 ## numpy
 [Numpy model](https://github.com/jackzhenguo/machine-learning/tree/master/numpy) is about numpy summaries in practice, currently including: 
@@ -19,6 +32,7 @@ to say, doesn't include everything knowledge about Python, currently including:
 
 ## pandas
 [Pandas model](https://github.com/jackzhenguo/machine-learning/tree/master/pandas) is about pandas summaries in practice.
+
 
 
 ## ml
