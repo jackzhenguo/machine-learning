@@ -12,6 +12,10 @@ to say, doesn't include everything knowledge about Python, currently including:
 - [生成器极简入门](https://github.com/jackzhenguo/machine-learning/blob/master/python/generatorFun.py)
 - [高阶函数极简入门](https://github.com/jackzhenguo/machine-learning/blob/master/python/highOrderFun.py)
 - [itertools之groupby](https://github.com/jackzhenguo/machine-learning/blob/master/python/itertools-groupby-example.py)
+- [24式加速你的Python](https://github.com/jackzhenguo/machine-learning/blob/master/python/24%E5%BC%8F%E5%8A%A0%E9%80%9F%E4%BD%A0%E7%9A%84Python.ipynb)
+- [Python63个内置函数](https://github.com/jackzhenguo/machine-learning/blob/master/python/Python63%E4%B8%AA%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.md)
+- [Type Checking](https://github.com/jackzhenguo/machine-learning/blob/master/python/Type%20Checking.md)
+- [列表生成式](https://github.com/jackzhenguo/machine-learning/blob/master/python/%E5%88%97%E8%A1%A8%E7%94%9F%E6%88%90%E5%BC%8F.md)
 
 ## numpy
 [Numpy model](https://github.com/jackzhenguo/machine-learning/tree/master/numpy) is about numpy summaries in practice, currently including: 
