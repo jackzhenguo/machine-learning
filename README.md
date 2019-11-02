@@ -29,11 +29,21 @@ to say, doesn't include everything knowledge about Python, currently including:
 ## numpy
 [Numpy model](https://github.com/jackzhenguo/machine-learning/tree/master/numpy) is about numpy summaries in practice, currently including: 
 - [Numpy特征工程常见的4个场景](https://github.com/jackzhenguo/machine-learning/blob/master/numpy/matric%20searching%20methods.md)
+- [Numpy的切片索引使用举例](https://github.com/jackzhenguo/machine-learning/blob/master/numpy/numpy_index_slice.ipynb)
 
 ## pandas
 [Pandas model](https://github.com/jackzhenguo/machine-learning/tree/master/pandas) is about pandas summaries in practice.
-
-
+- [Pandas实战总结1](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/pandas_all.ipynb)
+- [Pandas列索引获取方法](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/pandas_column_number.ipynb)
+- [Pandas列排序](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/pandas_column_sort.ipynb)
+- [Pandas去重操作使用举例](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/pandas_drop_duplicates.ipynb)
+- [Pandas的loc索引](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/pandas_loc.ipynb)
+- [Pandas的merge应用例子](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/play_pandas_merge_DataFrame.ipynb)
+- [Pandas的多索引、轴、排序](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/play_pandas_mutiIndex_pivot_sort.ipynb)
+- [Pandas的Series使用例子](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/play_pandas_series.ipynb)
+- [Pandas的DataFrame使用例子](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/play_pd_DataFrame.ipynb)
+- [to_csv乱码解决方法一](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/to_csv%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81.ipynb)
+- [Pandas处理缺失值实战](https://github.com/jackzhenguo/machine-learning/blob/master/pandas/top_missing_fun.ipynb)
 
 ## ml
 [ML model](https://github.com/jackzhenguo/machine-learning/tree/master/ml) is mainly about ml skill stack, including feature engineering, pca, common ml algorithms, etc. Importantly, each step
