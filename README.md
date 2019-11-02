@@ -48,6 +48,7 @@ to say, doesn't include everything knowledge about Python, currently including:
 ## ml
 [ML model](https://github.com/jackzhenguo/machine-learning/tree/master/ml) is mainly about ml skill stack, including feature engineering, pca, common ml algorithms, etc. Importantly, each step
 of machine learning is provided the reference materials which are picked up elaborately, currently including: 
+- [入门机器学习，这是我见过的最直白讲解](https://github.com/jackzhenguo/machine-learning/blob/master/ml/%E5%85%A5%E9%97%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%8C%E8%BF%99%E6%98%AF%E6%88%91%E8%A7%81%E8%BF%87%E7%9A%84%E6%9C%80%E7%9B%B4%E7%99%BD%E8%AE%B2%E8%A7%A3.md)
 - [单词拼写检查器](https://github.com/jackzhenguo/machine-learning/tree/master/ml/bayes)
 
 - [决策树做回归和分类及可视化](https://github.com/jackzhenguo/machine-learning/tree/master/ml/decision-tree)
@@ -61,6 +62,8 @@ of machine learning is provided the reference materials which are picked up elab
 - [手写 逻辑回归实战](https://github.com/jackzhenguo/machine-learning/blob/master/ml/logistic-regression.ipynb)
 
 - [xgboost基础入门](https://github.com/jackzhenguo/machine-learning/blob/master/ml/xgboost-basics.ipynb)
+- [梯度提升树(GBDT)完整教程 V1.1 发布.pdf](https://github.com/jackzhenguo/machine-learning/blob/master/ml/%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A0%91(GBDT)%E5%AE%8C%E6%95%B4%E6%95%99%E7%A8%8B%20V1.1%20%E5%8F%91%E5%B8%83.pdf)
+
 
 ## dl
 [DL model](https://github.com/jackzhenguo/machine-learning/tree/master/dl),deep learning part contains theory about cv and nlp. 
