@@ -26,6 +26,8 @@ to say, doesn't include everything knowledge about Python, currently including:
 - [Python63个内置函数](https://github.com/jackzhenguo/machine-learning/blob/master/python/Python63%E4%B8%AA%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.md)
 - [Type Checking](https://github.com/jackzhenguo/machine-learning/blob/master/python/Type%20Checking.md)
 - [列表生成式](https://github.com/jackzhenguo/machine-learning/blob/master/python/%E5%88%97%E8%A1%A8%E7%94%9F%E6%88%90%E5%BC%8F.md)
+- [Collections模块](https://github.com/jackzhenguo/machine-learning/blob/master/python/Collections.md)
+- [itertools模块](https://github.com/jackzhenguo/machine-learning/blob/master/python/itertools.md)
 
 ## numpy
 [Numpy model](https://github.com/jackzhenguo/machine-learning/tree/master/numpy) is about numpy summaries in practice, currently including: 
