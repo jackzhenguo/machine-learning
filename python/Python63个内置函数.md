@@ -436,6 +436,8 @@ In [120]: int('12',16)
 Out[120]: 18
 ```
 
+<<<<<<< HEAD
+=======
 36  isinstance(*object*, *classinfo*)
 
 判断*object*是否为类*classinfo*的实例，是返回true
@@ -888,3 +890,4 @@ In [194]: [str(y) + str(x) for x,y in zip(a,b)]
 Out[194]: ['a0', 'b1', 'c2', 'd3', 'e4']
 ```
 
+>>>>>>> 3ab5835554c54aa00eb79430f9e7b3a63cf3d12a
