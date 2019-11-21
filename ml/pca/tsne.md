@@ -10,7 +10,7 @@
 
 等时间来到2008年，另外一个和我们比较熟悉的大牛 Geoffrey Hinton在 2008 年一同提出了t-SNE 算法。
 
-![1574262159169](C:\Users\guozhen3\AppData\Roaming\Typora\typora-user-images\1574262159169.png)
+![1574262159169](../img/1574262159169.png)
 
 他们改进SNE算法为t-SNE算法，并使它在降维领域得到更广泛的应用。
 
@@ -70,13 +70,13 @@ t分布是长尾的，意味着距离更远的点依然能给出和高斯分布�
 
 以MNIST数据集，降维并可视化为例，可以看到t-SNE 算法明显好于其他降维算法：
 
-![1574305127247](C:\Users\guozhen3\AppData\Roaming\Typora\typora-user-images\1574305127247.png)
+![1574305127247](../img/1574305127247.png)
 
-![1574305178493](C:\Users\guozhen3\AppData\Roaming\Typora\typora-user-images\1574305178493.png)
+![1574305178493](../img/1574305178493.png)
 
-![1574305221924](C:\Users\guozhen3\AppData\Roaming\Typora\typora-user-images\1574305221924.png)
+![1574305221924](../img/1574305221924.png)
 
-![1574305256595](C:\Users\guozhen3\AppData\Roaming\Typora\typora-user-images\1574305256595.png)
+![1574305256595](../img/1574305256595.png)
 
 
 
@@ -84,13 +84,13 @@ t分布是长尾的，意味着距离更远的点依然能给出和高斯分布�
 
 
 
-![1574305291988](C:\Users\guozhen3\AppData\Roaming\Typora\typora-user-images\1574305291988.png)
+![1574305291988](../img/1574305291988.png)
 
 
 
 在哥伦比亚大学 Columbia University Image Library (COIL-20) 数据集上的表现：
 
-![1574305423823](C:\Users\guozhen3\AppData\Roaming\Typora\typora-user-images\1574305423823.png)
+![1574305423823](../img/1574305423823.png)
 
 
 
@@ -162,7 +162,7 @@ if __name__ == '__main__':
 
 结果：
 
-![](C:\Users\guozhen3\AppData\Roaming\Typora\typora-user-images\1574305699838.png)
+![](../img/1574305699838.png)
 
 
 
